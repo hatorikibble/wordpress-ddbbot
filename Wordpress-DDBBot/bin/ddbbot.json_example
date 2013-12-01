@@ -1,0 +1,13 @@
+{
+ "pidbase": "/tmp",
+ "name": "DDBBot",
+ "debug": 0,
+ "ddb_api_key": "XXX",
+ "ddb_api_url": "https://api.deutsche-digitale-bibliothek.de",
+ "wordpress_blog" : "XXXX",
+ "wordpress_user" : "XXXX",
+ "wordpress_password" : "XXXX",
+ "user_agent": "DDBBot (https://github.com/hatorikibble/wordpress-ddbbot; at.peter.mayr(at)gmail.com)",
+ "location_file": "/tmp/Zensus_Gemeinden.csv", 
+ "sleep_time": 350
+}
