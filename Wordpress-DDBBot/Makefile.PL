@@ -16,6 +16,7 @@ WriteMakefile(
     PREREQ_PM => {
         'Test::More'            => 0,
         'Config::Any::JSON'     => 0,
+        'File::Slurp'           => 0,
         'JSON'                  => '2.59',
         'List::Util'            => 0,
         'Log::Log4perl'         => '1.29',
